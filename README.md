@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **JS/Node.js/Express.js/EJS/**
 
-- 📫 How to reach me **aminebajji34@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **My favorite book is Meditations by Marcus Aurelius**
 
