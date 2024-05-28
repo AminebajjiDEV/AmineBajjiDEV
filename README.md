@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Amine Bajji</h1>
 <h3 align="center">A passionate full stack developer from Morocco</h3>
 
-- 🌱 I’m currently learning **Web Developpement and Software Developpement**
+- 🌱 I’m currently learning **Software Developpement**
 
-- 💬 Ask me about **JS/Node.js/Express.js/EJS/**
+- 💬 Ask me about **Anything!**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **Will be Uploaded soon:)**
 
 - ⚡ Fun fact **My favorite book is Meditations by Marcus Aurelius**
 
