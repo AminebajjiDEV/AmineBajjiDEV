@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Anything!**
 
-- 📫 How to reach me **Will be Uploaded soon:)**
+- 📫 How to reach me **Contact me on my LinkedIn**
 
 - ⚡ Fun fact **My favorite book is Meditations by Marcus Aurelius**
 
