@@ -73,14 +73,6 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
     </a>
   </p>
-
-- API Development and Testing Tool :
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a>
-   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-
 - Database :
   <p> 
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
@@ -114,6 +106,35 @@
       <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
     </a> 
   </p>
+  
+ - Version Control System:
+   <p>
+     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+     </a>
+   </p>
+   
+- API Development and Testing Tool :
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+  </a>
+   <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+
+- Operating Systems :
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/>
+  </a>
+  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Windows_logo_-_2021.svg" alt="windows" width="40" height="40"/>
+  </a>
+</p>
 
 - Design Softwares :
   <p> 
@@ -134,24 +155,6 @@
     </a> 
   </p>
   
-- Operating & Version Control Systems :
-    <p> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-     </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/>
-  </a>
-  <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Windows_10_logo_2015.svg" alt="windows" width="40" height="40"/>
-  </a>
-</p>
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aminebajjidev&show_icons=true&locale=en&layout=compact" alt="aminebajjidev" /></p>
