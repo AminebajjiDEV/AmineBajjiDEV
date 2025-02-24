@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amine</h1>
-<h3 align="center">A passionate full stack developer from Morocco</h3>
+<h3 align="center">A passionate junior full stack developer from Morocco</h3>
 
 - 🌱 I’m currently learning **Software Developpement**
 
