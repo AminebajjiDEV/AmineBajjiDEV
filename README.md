@@ -3,7 +3,7 @@
 <br>
 <h3 align="center">A passionate junior full stack developer from Morocco</h3>
 <h3 align="center">- 🌱 I’m currently learning Software Developpement</h3>
-<h3 align="center">- 📫 How to reach me amine.bajji.dev@gmail.com</h3>
+<h3 align="center">- 📫 How to reach me: amine.bajji.dev@gmail.com</h3>
 <h3 align="center">- ⚡ Fun fact My favorite book is Meditations by Marcus Aurelius</h3>
 
 ## 🌐 Socials:
