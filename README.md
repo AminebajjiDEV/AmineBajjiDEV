@@ -3,11 +3,12 @@
 <br>
 <h3 align="center">A passionate junior full stack developer from Morocco</h3>
 <h3 align="center">- 🌱 I’m currently learning Software Developpement</h3>
-<h3 align="center">- 📫 How to reach me: amine.bajji.dev@gmail.com</h3>
+<h3 align="center">- 📫 How to reach me: through my Portfolio Contact Form or Linkedin </h3> 
 <h3 align="center">- ⚡ Fun fact My favorite book is Meditations by Marcus Aurelius</h3>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amine-bajji) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amine-bajji) 
+- 📫 https://www.aminebajji.me/contact
 
 # 💻 Tech Stack:
 
@@ -49,7 +50,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 
 ### Hosting/Cloud Platforms:
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
@@ -60,10 +60,7 @@
 ### Development Tools:
 ![VSCode](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%23007ACC.svg?style=for-the-badge&logo=visual-studio&logoColor=white) 
-![Eclipse](https://img.shields.io/badge/eclipse-%23000000.svg?style=for-the-badge&logo=eclipse&logoColor=white) 
-![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white) 
-![Code::Blocks](https://img.shields.io/badge/Code%3A%3ABlocks-%23000000.svg?style=for-the-badge&logo=codeblocks&logoColor=white) 
-![Sublime Text](https://img.shields.io/badge/sublime_text-%23FF9800.svg?style=for-the-badge&logo=sublime-text&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/intellij_idea-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ### Operating Systems:
 ![Linux](https://img.shields.io/badge/Linux-%23F5F5F5.svg?style=for-the-badge&logo=linux&logoColor=black) 
