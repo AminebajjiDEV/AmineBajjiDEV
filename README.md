@@ -8,7 +8,7 @@
 
 ## 🌐 Socials:
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/amine-bajji) 
-- 📫 https://www.aminebajji.me/contact
+- 📫 [https://www.aminebajji.tech/contact](https://www.aminebajji.tech/contact)
 
 # 💻 Tech Stack:
 
